@@ -67,6 +67,10 @@ public class Candy {
 	}
 	
 	public static int[] divideSamplesArray(int[] array) {
+		List<Integer> resultList = new ArrayList<Integer>();
+		Integer[] a = {};
+		
+		resultList = Arrays.asList(a);
 		int[] result = new int[array.length];	
 		int[] mary = new int[array.length];	
 		int[] remain = new int[array.length];	
