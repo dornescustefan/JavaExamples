@@ -1,7 +1,9 @@
 package questionAndSolution;
 
 import java.math.BigInteger;
-
+/*
+ * Calculate the the factorial of 25
+ * */
 public class LongFactorial {
 	
 	private static BigInteger factorial(int n) {

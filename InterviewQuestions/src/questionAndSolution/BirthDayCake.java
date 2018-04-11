@@ -1,7 +1,11 @@
 package questionAndSolution;
 
 import java.util.Arrays;
-
+/*
+ * -> the input array represent candles n=number of element
+ * -> the celebrated person can blow out just the highest ones
+ * ? calculate how many high candles are on the cake
+ * */
 public class BirthDayCake {
 	
 	 public static int birthdayCakeCandles(int n, int[] ar) {

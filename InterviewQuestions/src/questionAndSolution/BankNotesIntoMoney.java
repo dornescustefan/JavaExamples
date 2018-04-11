@@ -1,13 +1,14 @@
-package com.greedy;
+package questionAndSolution;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+/*
+ * Make out the amount=amount from the a given Array of Bank notes
+ * */
+public class BankNotesIntoMoney {
 
-public class Greedy {
-	
-	
-	
+    //int[] notes = {50, 20, 10, 5,  2, 1 };
 	public static int[] makeOut(int[] notes, int amount ) {
 				
 		List<Integer> resultList = new ArrayList<>();
@@ -27,5 +28,4 @@ public class Greedy {
 				  				.toArray();
 		return result;
 		}
-
 }

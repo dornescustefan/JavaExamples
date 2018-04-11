@@ -1,7 +1,9 @@
 package questionAndSolution;
 
 import java.util.Arrays;
-
+/*
+ *  ? calculate the maximum sum of an array
+ * */
 public class MinMaxSumInArray {
 	public static void sum(int[] array) {
 		int min = 0;

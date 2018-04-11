@@ -1,10 +1,10 @@
-package com.alghorithms;
+package questionAndSolution;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
+/*Divide Array in half so the result has the most different values left */
 public class Candy {
 	 
 	// Converts an Integer array to an ArrayList 

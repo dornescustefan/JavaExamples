@@ -1,7 +1,5 @@
 package questionAndSolution;
 
-import java.util.ArrayList;
-import java.util.List;
 /*Merge 2 String and return one String*/
 public class MergeStrings {
 	

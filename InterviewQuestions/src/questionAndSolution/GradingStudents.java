@@ -1,5 +1,9 @@
 package questionAndSolution;
-/*Round grades given in an array following rules*/
+/*Round numbers=grades given in an array according to these rules:
+ -> Everything under 38 is not rounded up
+ -> 78 Becomes 80, but 77 Stays 77
+ ? the result array has to be the input array but with rounded results
+ */
 public class GradingStudents {
 	public static int[] gradingStudents(int[] grades) {
        int[] result = new int[grades.length];

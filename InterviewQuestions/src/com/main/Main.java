@@ -1,14 +1,6 @@
 package com.main;
 
-import java.math.BigInteger;
-import java.util.Random;
-
-import questionAndSolution.BirthDayCake;
-import questionAndSolution.GradingStudents;
-import questionAndSolution.LongFactorial;
 import questionAndSolution.MergeStrings;
-import questionAndSolution.MinMaxSumInArray;
-import questionAndSolution.StringToTime;
 
 public class Main {
 

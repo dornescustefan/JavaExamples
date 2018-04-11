@@ -1,14 +1,12 @@
 package questionAndSolution;
 
-import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
 import java.util.Date;
-import java.util.SimpleTimeZone;
-
+/*
+ * Generate 24 hour time from a String Input
+ * ? "07:05:40PM" = 19:05:40
+ * */
 public class StringToTime {
 	
 	public static String stringToTime (String s) {
