@@ -19,6 +19,7 @@ public class Main {
 	result1 = node.contains(50);
 	result2 = node.contains(80);
 	result3 = node.contains(500);
+	
 	System.out.println(result1);
 	System.out.println(result2);
 	System.out.println(result3);

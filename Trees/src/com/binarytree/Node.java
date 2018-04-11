@@ -48,7 +48,7 @@ public class Node {
 		if (left != null) {
 			left.printInOrder();
 		}
-		System.out.println(data);
+		System.out.println(" " + data);
 		
 		if(right != null) {
 			right.printInOrder();
