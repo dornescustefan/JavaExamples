@@ -12,6 +12,8 @@ public class Main {
 		node.insert(600);
 		node.insert(180);
 		node.insert(80);
+		node.insert(80);
+		
 	
 		boolean result1 = false;
 		boolean result2 = false;
